@@ -21,6 +21,6 @@ Beautiful Soupによるスクレイピング
 #Weather_info.py  
 大学周辺の天気予報を取得  
 livedoorのapiを活用  
-午前->当日の天気予報
-午後->明日の天気予報
-Twitterへの登校
+午前->当日の天気予報  
+午後->明日の天気予報  
+Twitterへのポスト
